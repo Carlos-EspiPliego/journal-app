@@ -34,7 +34,7 @@ Esta es una aplicación de notas desarrollada como parte del curso de React: de 
 
 ### Enlaces
 
-- URL de la aplicación demo: [Journal App Demo](https://galaxypliego.github.io/journal-app/)
+- URL de la aplicación demo: [Journal App Demo](https://carlos-espipliego.github.io/journal-app/)
 
 ## Mi proceso
 
